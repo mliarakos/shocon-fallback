@@ -35,3 +35,4 @@ Settings in the `a` config are not found.
    cd shocon-fallback
    sbt test
    ```
+1. The first test should succeed while the second test should fail to demonstrate the issue.
